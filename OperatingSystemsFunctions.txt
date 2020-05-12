@@ -1,0 +1,1 @@
+A file manager is a Operating system function that stores your files on your computer. It holds on your program files as well as any personal documents including picutres. It is this system function that makes sure that your computer can find a file, and that it remains in the correct folder or location, if it did not do this dyou would get a corrupt ile location error. 
